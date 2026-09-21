@@ -13,6 +13,7 @@ substitutions:
 
 web_server:
   local: true
+  ota: false
 
 esphome:
   name: ${id_prefix}
